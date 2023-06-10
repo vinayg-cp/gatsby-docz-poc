@@ -15,7 +15,7 @@
     "docz:build": "docz build"
   },
   "dependencies": {
-    "gatsby": "^2.16.1",
+    "gatsby": "^4.25.7",
     "gatsby-theme-docz": "^2.0.0-rc.57",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
